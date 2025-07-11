@@ -54,6 +54,14 @@ npm run dev
 ```
 
 Make sure to update the target date in `Home` component if you want to reuse this.
+---
+
+## 🌐 Live Demo
+
+[🎉 View on Vercel](https://birthday-card-nu-eight.vercel.app/)  
+> _(Replace with your actual deployed Vercel URL)_
+
+---
 
 
 
